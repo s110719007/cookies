@@ -1,0 +1,22 @@
+.button-size {
+   display: flex;
+   font-size: 15px;
+   justify-content: center;
+   padding: 30px;
+}
+.botton1{
+	border-top-right-radius:25%;
+	border-top-left-radius:25%;
+	border-bottom-left-radius:25%;
+	border-bottom-right-radius:25%;
+   cursor: pointer;
+   padding: 1em;
+   color: #fff;
+   background-color: #926768;
+   border: 1px solid #926768;
+}
+.botton1:hover{
+   background-color: #3F2122;
+	border: 1px solid #3F2122;
+   color: white;
+}

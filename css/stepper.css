@@ -1,0 +1,31 @@
+body{
+   background-color: #1DE9B6;
+}
+.stepper-input {
+   display: flex;
+   font-size: 1.5em;
+   justify-content: center;
+   padding: 30px;
+}
+.botton{
+   cursor: pointer;
+   padding: 1em;
+   color: #fff;
+   background-color: #121212;
+   border: 1px solid #121212;
+}
+.botton:hover{
+   background-color: #C3C3C3;
+   color: #121212;
+}
+.botton-left   {
+   border-radius: 10px 0 0 10px;
+}
+.botton-right{
+   border-radius: 0 10px 10px 0 ;
+}
+.input-box {
+   border: 1px solid #121212;
+   text-align: center;
+}
+
